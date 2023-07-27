@@ -49,7 +49,6 @@ public class Deneme
                     d.calisanEkle(c2);
         }
         
-        // pdf'de bizden istenen bilgilerin yazdırılması
         System.out.println("--------------------------------");
         for (ICalisan c : calisanAL) 
         {
