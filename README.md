@@ -1,6 +1,6 @@
 # CompanyHierarchyForEmployees
 
-Kullanılan Desenler:\
+### Kullanılan Desenler
 • Bileşik (Composite)\
 • Tekrarlayıcı (Iterator)\
 • Strateji (Strategy)
