@@ -8,10 +8,6 @@ package nbproject;
 import static org.testng.Assert.*;
 import org.testng.annotations.Test;
 
-/**
- *
- * @author emrec
- */
 public class MaliyetHesaplaTest 
 {
     Direktor d1 = new Direktor("D", "Mustafa Turksever", 5000, "Root");
